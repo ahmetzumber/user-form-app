@@ -1,0 +1,5 @@
+{
+    "zenMode.hideStatusBar": false,
+    "zenMode.hideLineNumbers": false,
+    "python.pythonPath": "/usr/local/bin/python3"
+}
